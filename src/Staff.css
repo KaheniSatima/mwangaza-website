@@ -1,0 +1,100 @@
+.staff-page-container {
+  padding: 40px 20px;
+  background-color: white;
+}
+
+.staff-page-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: #230101;
+}
+
+.staff-page-card {
+  display: flex;
+  gap: 30px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 20px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.staff-page-left {
+  flex: 1;
+  min-width: 280px;
+  text-align: center;
+}
+
+.staff-page-image {
+  width: 100%;
+  max-width: 280px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.staff-page-name {
+  font-size: 1.3rem;
+  color: #230101;
+  margin-top: 15px;
+}
+
+.staff-page-position {
+  font-size: 1.1rem;
+  color: #230101;
+}
+
+.staff-page-right {
+  flex: 2;
+  min-width: 300px;
+}
+
+.staff-page-roles-heading {
+  font-size: 1.2rem;
+  color: #e60000;
+  margin-bottom: 10px;
+}
+
+.staff-page-roles-list {
+  padding-left: 20px;
+  color: #230101;
+}
+
+.staff-page-roles-list li {
+  margin-bottom: 10px;
+}
+
+.staff-page-divider-wrapper {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.staff-page-divider {
+  height: 5px;
+  background-color: #e60000;
+  width: 100%;
+}
+
+/* ✅ Responsive */
+@media (max-width: 768px) {
+  .staff-page-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .staff-page-left,
+  .staff-page-right {
+    width: 100%;
+  }
+
+  .staff-page-right {
+    text-align: left;
+  }
+}

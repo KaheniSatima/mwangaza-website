@@ -1,24 +1,32 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './Home';
+import About from './About';
+import Services from './Services';
+import Blog from './Blog';
+import Contact from './Contact';
+import Navbar from './Navbar';
+import Footer from './Footer';
+import Staff from './Staff'; // ✅ Make sure the path is correct
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Navbar />
+      <div className="container">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/our-staff" element={<Staff />} />
+
+        </Routes>
+      </div>
+      <Footer /> {/* ✅ ADD THIS LINE */}
+    </Router>
   );
 }
 

@@ -1,0 +1,77 @@
+.footer {
+  background-color: #230101;
+  padding: 2rem 1rem;
+  color: white;
+  font-size: 14px;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem;
+  align-items: flex-start; /* 🔼 Align logo and headers at the top */
+}
+
+/* Footer section */
+.footer-section {
+  flex: 1;
+  min-width: 220px;
+}
+
+/* 🟢 Logo section alignment */
+.logo-social {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start; /* 🔼 Align with headers */
+}
+
+.footer-logo {
+  height: 70px; /* 🔼 Increase logo size */
+  margin-bottom: 1rem;
+}
+
+/* Social icons below logo */
+.social-icon {
+  display: flex;
+  gap: 1rem;
+}
+
+.social-icon a {
+  color: white;
+  font-size: 18px;
+}
+
+/* Headings */
+.footer-section h4 {
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Quick Links */
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-section ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer-bottom {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 13px;
+  color: white;
+  border-top: 1px solid #ddd;
+  padding-top: 1rem;
+}

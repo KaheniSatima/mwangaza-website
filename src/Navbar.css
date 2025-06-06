@@ -1,0 +1,111 @@
+/* Base styles */
+.navbar {
+  background-color: #fff;
+  padding: 0.7rem 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+/* Logo */
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 100px;
+}
+
+/* Hamburger icon */
+.hamburger {
+  display: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+/* Navigation links and icons */
+.nav-links-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #230101;
+  font-weight: 500;
+}
+
+/* Social media icons next to links */
+.social-icons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-left: 2rem;
+}
+
+.social-icons a {
+  color: #230101;
+  font-size: 18px;
+}
+
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0.3rem 0.8rem;
+  }
+
+  .logo {
+    height: 99px;
+  }
+
+  .hamburger {
+    display: block;
+    color: #fb0101;
+  }
+
+  .nav-links-container {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 0.3rem; /* reduced space below logo */
+    padding-bottom: 0.3rem; /* reduced bottom spacing */
+  }
+
+  .nav-links-container.open {
+    display: flex;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    gap: 0.3rem; /* reduced space between links */
+  }
+
+  .nav-links a {
+    margin: 0.2rem 0; /* tighter vertical margin */
+    font-size: 0.95rem; /* optionally reduce font size */
+  }
+
+  .social-icons {
+    margin-top: 0.4rem; /* less spacing below links */
+    justify-content: flex-start;
+  }
+}
