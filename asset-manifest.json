@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/mwangaza-website/static/css/main.143938e5.css",
-    "main.js": "/mwangaza-website/static/js/main.c7c941aa.js",
+    "main.css": "/mwangaza-website/static/css/main.5a806579.css",
+    "main.js": "/mwangaza-website/static/js/main.94891152.js",
     "static/media/counselling.jpg": "/mwangaza-website/static/media/counselling.f799b59cd173779b314e.jpg",
     "static/media/training.jpg": "/mwangaza-website/static/media/training.961b13b96cc2018e1fc4.jpg",
     "static/media/hero.jpg": "/mwangaza-website/static/media/hero.4a5a854b1ba6b6329107.jpg",
     "static/media/logo.png": "/mwangaza-website/static/media/logo.0d8b0dca7f4a8cd648aa.png",
     "static/media/management.jpg": "/mwangaza-website/static/media/management.293af95a48b62b230b84.jpg",
+    "static/media/client-engagement.jpg": "/mwangaza-website/static/media/client-engagement.2e2437ee327d6d668ff2.jpg",
     "static/media/consultant.jpg": "/mwangaza-website/static/media/consultant.5e54169e0fc88aa20eb8.jpg",
     "static/media/specialist-nurse.jpg": "/mwangaza-website/static/media/specialist-nurse.d25fb06505a9826062fa.jpg",
     "static/media/diagnostics.jpg": "/mwangaza-website/static/media/diagnostics.0e5e367d2954ccc7f8fb.jpg",
@@ -21,11 +22,11 @@
     "static/media/nyeri-logo.jpg": "/mwangaza-website/static/media/nyeri-logo.c816502acc4e0325c84e.jpg",
     "static/media/counselling1.jpg": "/mwangaza-website/static/media/counselling1.f836fcd59ecd3acae360.jpg",
     "index.html": "/mwangaza-website/index.html",
-    "main.143938e5.css.map": "/mwangaza-website/static/css/main.143938e5.css.map",
-    "main.c7c941aa.js.map": "/mwangaza-website/static/js/main.c7c941aa.js.map"
+    "main.5a806579.css.map": "/mwangaza-website/static/css/main.5a806579.css.map",
+    "main.94891152.js.map": "/mwangaza-website/static/js/main.94891152.js.map"
   },
   "entrypoints": [
-    "static/css/main.143938e5.css",
-    "static/js/main.c7c941aa.js"
+    "static/css/main.5a806579.css",
+    "static/js/main.94891152.js"
   ]
 }
