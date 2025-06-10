@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/mwangaza-website/static/css/main.5a806579.css",
-    "main.js": "/mwangaza-website/static/js/main.94891152.js",
+    "main.css": "/mwangaza-website/static/css/main.5c8d12c1.css",
+    "main.js": "/mwangaza-website/static/js/main.09e204cd.js",
     "static/media/counselling.jpg": "/mwangaza-website/static/media/counselling.f799b59cd173779b314e.jpg",
     "static/media/training.jpg": "/mwangaza-website/static/media/training.961b13b96cc2018e1fc4.jpg",
+    "static/media/diabetes1.jpg": "/mwangaza-website/static/media/diabetes1.35623d46921e847b4eac.jpg",
     "static/media/hero.jpg": "/mwangaza-website/static/media/hero.4a5a854b1ba6b6329107.jpg",
     "static/media/logo.png": "/mwangaza-website/static/media/logo.0d8b0dca7f4a8cd648aa.png",
+    "static/media/diabetes2.jpg": "/mwangaza-website/static/media/diabetes2.b6db6334caf8e0029f2f.jpg",
     "static/media/management.jpg": "/mwangaza-website/static/media/management.293af95a48b62b230b84.jpg",
+    "static/media/hbp.jpg": "/mwangaza-website/static/media/hbp.c1c422ef4577128094d4.jpg",
     "static/media/client-engagement.jpg": "/mwangaza-website/static/media/client-engagement.2e2437ee327d6d668ff2.jpg",
     "static/media/consultant.jpg": "/mwangaza-website/static/media/consultant.5e54169e0fc88aa20eb8.jpg",
     "static/media/specialist-nurse.jpg": "/mwangaza-website/static/media/specialist-nurse.d25fb06505a9826062fa.jpg",
     "static/media/diagnostics.jpg": "/mwangaza-website/static/media/diagnostics.0e5e367d2954ccc7f8fb.jpg",
+    "static/media/cholesterol.jpg": "/mwangaza-website/static/media/cholesterol.1b575a0f61d2dd1e925b.jpg",
     "static/media/screening.jpg": "/mwangaza-website/static/media/screening.a6a53cb71e1dc0e10a2e.jpg",
     "static/media/followup.jpg": "/mwangaza-website/static/media/followup.0bf9112b7975a39c9605.jpg",
     "static/media/lab-technologist.jpg": "/mwangaza-website/static/media/lab-technologist.b7de6bc47aa4c2d5cd0c.jpg",
@@ -22,11 +26,11 @@
     "static/media/nyeri-logo.jpg": "/mwangaza-website/static/media/nyeri-logo.c816502acc4e0325c84e.jpg",
     "static/media/counselling1.jpg": "/mwangaza-website/static/media/counselling1.f836fcd59ecd3acae360.jpg",
     "index.html": "/mwangaza-website/index.html",
-    "main.5a806579.css.map": "/mwangaza-website/static/css/main.5a806579.css.map",
-    "main.94891152.js.map": "/mwangaza-website/static/js/main.94891152.js.map"
+    "main.5c8d12c1.css.map": "/mwangaza-website/static/css/main.5c8d12c1.css.map",
+    "main.09e204cd.js.map": "/mwangaza-website/static/js/main.09e204cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a806579.css",
-    "static/js/main.94891152.js"
+    "static/css/main.5c8d12c1.css",
+    "static/js/main.09e204cd.js"
   ]
 }
