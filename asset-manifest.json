@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mwangaza-website/static/css/main.37e2b5f1.css",
-    "main.js": "/mwangaza-website/static/js/main.19d6c07b.js",
-    "static/media/reception-nurse.mp4": "/mwangaza-website/static/media/reception-nurse.3990aa45534d20117255.mp4",
+    "main.js": "/mwangaza-website/static/js/main.5bc0e159.js",
+    "static/media/reception-nurse.mp4": "/mwangaza-website/static/media/reception-nurse.c235ca30a05517601823.mp4",
     "static/media/counselling.jpg": "/mwangaza-website/static/media/counselling.f799b59cd173779b314e.jpg",
     "static/media/training.jpg": "/mwangaza-website/static/media/training.961b13b96cc2018e1fc4.jpg",
     "static/media/diabetes1.jpg": "/mwangaza-website/static/media/diabetes1.35623d46921e847b4eac.jpg",
@@ -27,10 +27,10 @@
     "static/media/counselling1.jpg": "/mwangaza-website/static/media/counselling1.f836fcd59ecd3acae360.jpg",
     "index.html": "/mwangaza-website/index.html",
     "main.37e2b5f1.css.map": "/mwangaza-website/static/css/main.37e2b5f1.css.map",
-    "main.19d6c07b.js.map": "/mwangaza-website/static/js/main.19d6c07b.js.map"
+    "main.5bc0e159.js.map": "/mwangaza-website/static/js/main.5bc0e159.js.map"
   },
   "entrypoints": [
     "static/css/main.37e2b5f1.css",
-    "static/js/main.19d6c07b.js"
+    "static/js/main.5bc0e159.js"
   ]
 }
