@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mwangaza-website/static/css/main.37e2b5f1.css",
+    "main.css": "/mwangaza-website/static/css/main.a5af59a5.css",
     "main.js": "/mwangaza-website/static/js/main.5bc0e159.js",
     "static/media/reception-nurse.mp4": "/mwangaza-website/static/media/reception-nurse.c235ca30a05517601823.mp4",
     "static/media/counselling.jpg": "/mwangaza-website/static/media/counselling.f799b59cd173779b314e.jpg",
@@ -26,11 +26,11 @@
     "static/media/nyeri-logo.jpg": "/mwangaza-website/static/media/nyeri-logo.c816502acc4e0325c84e.jpg",
     "static/media/counselling1.jpg": "/mwangaza-website/static/media/counselling1.f836fcd59ecd3acae360.jpg",
     "index.html": "/mwangaza-website/index.html",
-    "main.37e2b5f1.css.map": "/mwangaza-website/static/css/main.37e2b5f1.css.map",
+    "main.a5af59a5.css.map": "/mwangaza-website/static/css/main.a5af59a5.css.map",
     "main.5bc0e159.js.map": "/mwangaza-website/static/js/main.5bc0e159.js.map"
   },
   "entrypoints": [
-    "static/css/main.37e2b5f1.css",
+    "static/css/main.a5af59a5.css",
     "static/js/main.5bc0e159.js"
   ]
 }
