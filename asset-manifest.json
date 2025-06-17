@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mwangaza-website/static/css/main.4a375a19.css",
-    "main.js": "/mwangaza-website/static/js/main.75a4d2ae.js",
+    "main.js": "/mwangaza-website/static/js/main.ec0a330f.js",
     "static/media/counselling.jpg": "/mwangaza-website/static/media/counselling.f799b59cd173779b314e.jpg",
     "static/media/team.jpg": "/mwangaza-website/static/media/team.ff1b773bf3f7785a8776.jpg",
     "static/media/training.jpg": "/mwangaza-website/static/media/training.961b13b96cc2018e1fc4.jpg",
@@ -44,10 +44,10 @@
     "static/media/img1c.jpg": "/mwangaza-website/static/media/img1c.cb650577d1ce3e1bb5f8.jpg",
     "index.html": "/mwangaza-website/index.html",
     "main.4a375a19.css.map": "/mwangaza-website/static/css/main.4a375a19.css.map",
-    "main.75a4d2ae.js.map": "/mwangaza-website/static/js/main.75a4d2ae.js.map"
+    "main.ec0a330f.js.map": "/mwangaza-website/static/js/main.ec0a330f.js.map"
   },
   "entrypoints": [
     "static/css/main.4a375a19.css",
-    "static/js/main.75a4d2ae.js"
+    "static/js/main.ec0a330f.js"
   ]
 }
