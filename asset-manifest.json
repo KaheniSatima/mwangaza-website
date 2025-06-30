@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mwangaza-website/static/css/main.5dc9bc79.css",
-    "main.js": "/mwangaza-website/static/js/main.ec0a330f.js",
+    "main.css": "/mwangaza-website/static/css/main.5ce1dffe.css",
+    "main.js": "/mwangaza-website/static/js/main.935a09ca.js",
     "static/media/counselling.jpg": "/mwangaza-website/static/media/counselling.f799b59cd173779b314e.jpg",
     "static/media/team.jpg": "/mwangaza-website/static/media/team.ff1b773bf3f7785a8776.jpg",
     "static/media/training.jpg": "/mwangaza-website/static/media/training.961b13b96cc2018e1fc4.jpg",
@@ -9,23 +9,19 @@
     "static/media/img2a.jpg": "/mwangaza-website/static/media/img2a.99857a4c4451bfa0781a.jpg",
     "static/media/img1b.jpg": "/mwangaza-website/static/media/img1b.74da522b8c11754a616e.jpg",
     "static/media/prof.jpg": "/mwangaza-website/static/media/prof.4402a3cb063cc6828d37.jpg",
-    "static/media/diabetes1.jpg": "/mwangaza-website/static/media/diabetes1.35623d46921e847b4eac.jpg",
     "static/media/hero.jpg": "/mwangaza-website/static/media/hero.4a5a854b1ba6b6329107.jpg",
     "static/media/img2b.jpg": "/mwangaza-website/static/media/img2b.e6826cd409f7a6594388.jpg",
     "static/media/logo.png": "/mwangaza-website/static/media/logo.0d8b0dca7f4a8cd648aa.png",
     "static/media/img4c.jpg": "/mwangaza-website/static/media/img4c.cd18921d94b3669cdbb1.jpg",
-    "static/media/diabetes2.jpg": "/mwangaza-website/static/media/diabetes2.b6db6334caf8e0029f2f.jpg",
     "static/media/img4b.jpg": "/mwangaza-website/static/media/img4b.009099f235a8e04c0c5b.jpg",
     "static/media/ground.jpg": "/mwangaza-website/static/media/ground.18bd5fc14fbe10ff133e.jpg",
     "static/media/management.jpg": "/mwangaza-website/static/media/management.293af95a48b62b230b84.jpg",
     "static/media/specialist-nurse.jpg": "/mwangaza-website/static/media/specialist-nurse.898d00312bcae704cd18.jpg",
-    "static/media/hbp.jpg": "/mwangaza-website/static/media/hbp.c1c422ef4577128094d4.jpg",
     "static/media/img4a.jpg": "/mwangaza-website/static/media/img4a.8edf5bb250d1771cc27f.jpg",
     "static/media/IT.jpg": "/mwangaza-website/static/media/IT.c4e22bc791e01d3a71f8.jpg",
     "static/media/consultant.jpg": "/mwangaza-website/static/media/consultant.5e54169e0fc88aa20eb8.jpg",
     "static/media/diagnostics.jpg": "/mwangaza-website/static/media/diagnostics.0e5e367d2954ccc7f8fb.jpg",
     "static/media/img2c.jpg": "/mwangaza-website/static/media/img2c.575b6c0844d8dd6acfcc.jpg",
-    "static/media/cholesterol.jpg": "/mwangaza-website/static/media/cholesterol.1b575a0f61d2dd1e925b.jpg",
     "static/media/screening.jpg": "/mwangaza-website/static/media/screening.a6a53cb71e1dc0e10a2e.jpg",
     "static/media/followup.jpg": "/mwangaza-website/static/media/followup.0bf9112b7975a39c9605.jpg",
     "static/media/lab-technologist.jpg": "/mwangaza-website/static/media/lab-technologist.b7de6bc47aa4c2d5cd0c.jpg",
@@ -43,11 +39,11 @@
     "static/media/img6a.jpg": "/mwangaza-website/static/media/img6a.71c84a8b4e6d1d59633d.jpg",
     "static/media/img1c.jpg": "/mwangaza-website/static/media/img1c.cb650577d1ce3e1bb5f8.jpg",
     "index.html": "/mwangaza-website/index.html",
-    "main.5dc9bc79.css.map": "/mwangaza-website/static/css/main.5dc9bc79.css.map",
-    "main.ec0a330f.js.map": "/mwangaza-website/static/js/main.ec0a330f.js.map"
+    "main.5ce1dffe.css.map": "/mwangaza-website/static/css/main.5ce1dffe.css.map",
+    "main.935a09ca.js.map": "/mwangaza-website/static/js/main.935a09ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dc9bc79.css",
-    "static/js/main.ec0a330f.js"
+    "static/css/main.5ce1dffe.css",
+    "static/js/main.935a09ca.js"
   ]
 }
