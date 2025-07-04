@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mwangaza-website/static/css/main.3bc1d77e.css",
-    "main.js": "/mwangaza-website/static/js/main.8ac94314.js",
+    "main.css": "/mwangaza-website/static/css/main.6d6fc239.css",
+    "main.js": "/mwangaza-website/static/js/main.02f5e699.js",
     "static/media/counselling.jpg": "/mwangaza-website/static/media/counselling.f799b59cd173779b314e.jpg",
     "static/media/team.jpg": "/mwangaza-website/static/media/team.ff1b773bf3f7785a8776.jpg",
     "static/media/training.jpg": "/mwangaza-website/static/media/training.961b13b96cc2018e1fc4.jpg",
@@ -38,17 +38,16 @@
     "static/media/reception.jpg": "/mwangaza-website/static/media/reception.ef9a1f080433b93ff0f6.jpg",
     "static/media/img6b.jpg": "/mwangaza-website/static/media/img6b.e4282c1faf72fdd5cff7.jpg",
     "static/media/counselling1.jpg": "/mwangaza-website/static/media/counselling1.f836fcd59ecd3acae360.jpg",
-    "static/media/img3.jpg": "/mwangaza-website/static/media/img3.0b01413ffbeb0b79046d.jpg",
     "static/media/lab2.jpg": "/mwangaza-website/static/media/lab2.d2aca04ff5c38d79ab13.jpg",
     "static/media/lab3.jpg": "/mwangaza-website/static/media/lab3.57bc2a200ec72bef952f.jpg",
     "static/media/img6a.jpg": "/mwangaza-website/static/media/img6a.71c84a8b4e6d1d59633d.jpg",
     "static/media/img1c.jpg": "/mwangaza-website/static/media/img1c.cb650577d1ce3e1bb5f8.jpg",
     "index.html": "/mwangaza-website/index.html",
-    "main.3bc1d77e.css.map": "/mwangaza-website/static/css/main.3bc1d77e.css.map",
-    "main.8ac94314.js.map": "/mwangaza-website/static/js/main.8ac94314.js.map"
+    "main.6d6fc239.css.map": "/mwangaza-website/static/css/main.6d6fc239.css.map",
+    "main.02f5e699.js.map": "/mwangaza-website/static/js/main.02f5e699.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bc1d77e.css",
-    "static/js/main.8ac94314.js"
+    "static/css/main.6d6fc239.css",
+    "static/js/main.02f5e699.js"
   ]
 }
